@@ -1,42 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T06:46:26.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="GsyO_fEhFxCqTSlgXtgd" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T06:46:42.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="rdSTzfkwVpqhYYRwVSWg" version="20.2.7" type="github">
   <diagram id="q90wzC6N9-QQrOUs7Nu1" name="第 1 页">
-    <mxGraphModel dx="1303" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="61aphVsFncPEr8M_4rkp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-1" target="61aphVsFncPEr8M_4rkp-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-1" value="数据集制作&lt;br&gt;(转换为kiiti格式）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-2" target="61aphVsFncPEr8M_4rkp-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-2" value="label聚合&amp;amp;筛选&lt;br&gt;（增量式数据集拼接）" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-4" target="61aphVsFncPEr8M_4rkp-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-4" value="模型训练" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-6" target="61aphVsFncPEr8M_4rkp-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-6" value="模型推理&amp;amp;可视化" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-8" target="61aphVsFncPEr8M_4rkp-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-8" value="最佳权重交付" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-11" value="服务器端和部署端一致性校准" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="61aphVsFncPEr8M_4rkp-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-103" target="61aphVsFncPEr8M_4rkp-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
