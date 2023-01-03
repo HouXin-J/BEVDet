@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T06:35:25.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="2_P1jrTvhNn7xBzA4HFv" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T06:42:27.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="0oWv9s924HQNv75fOv2c" version="20.2.7" type="github">
   <diagram id="q90wzC6N9-QQrOUs7Nu1" name="第 1 页">
-    <mxGraphModel dx="1303" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,14 @@
         <mxCell id="61aphVsFncPEr8M_4rkp-112" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Consistency verification on GPU and Orin&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="333.12" width="190" height="118.75" as="geometry" />
         </mxCell>
-        <mxCell id="61aphVsFncPEr8M_4rkp-116" value="" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+        <mxCell id="61aphVsFncPEr8M_4rkp-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="61aphVsFncPEr8M_4rkp-116" target="61aphVsFncPEr8M_4rkp-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="61aphVsFncPEr8M_4rkp-116" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Corner Case &lt;br&gt;&amp;amp;Data backtracking&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="500.01" width="190" height="99.99" as="geometry" />
+        </mxCell>
+        <mxCell id="61aphVsFncPEr8M_4rkp-118" value="" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="500.01" width="185" height="99.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
